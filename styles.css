@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color:  pink;
+    border:5px solid green;
+}
+h1 {
+    color: purple; background-color:yellow;font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-size:60px;}
+img{
+    width:400px;}
